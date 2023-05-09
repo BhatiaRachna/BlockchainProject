@@ -668,7 +668,7 @@ const abi = [
 ]
 
 
-const Web3 = require('web3');
+//const Web3 = require('web3');
 
 // Connect to the Goerli network
 const web3 = new Web3(window.ethereum);
